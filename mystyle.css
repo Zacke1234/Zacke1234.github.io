@@ -101,8 +101,8 @@ nav p{
   padding: 15px 20px;
   font-size: 36px;
   font-weight: 600;
-  background-color: #232323c5;
-  color: #F0C46A;
+  background-color: #221f1fc5;
+  color: #dc1010;
   position:absolute;
   margin-top: -79px;
   border-bottom-right-radius: var(--game-video-radius);
@@ -110,11 +110,11 @@ nav p{
 }
 .back-button{
   font-size: 25px;
-  color: #F0C46A;
+  color: #0c0a06;
   text-decoration: none;
 }
 .back-button:hover{
-  color: #e3d9c6;
+  color: #ff4141;
 }
 .game-grid-container{
   display: grid;
@@ -134,7 +134,7 @@ nav p{
 .game-description-list{
   font-size: 20px;
   font-weight: 300;
-  color: #ababab;
+  color: #8f3030;
   
   display: grid;
   grid-template-columns: auto auto;
@@ -179,18 +179,18 @@ nav p{
 .game-introduction{
   font-size: 20px;
   font-weight: 300;
-  color: #ababab;
+  color: #000000;
 }
 .game-introduction mark{
   font-weight: bold;
   background: none;
-  color: #ababab
+  color: #1b1616
 }
 .game-introduction a{
-  color:#F0C46A;
+  color:#ffea00;
 }
 .game-introduction a:hover{
-  color:#e3d9c6;
+  color:#eb3535;
 }
 .game-sub-title{
   margin-top: 40px;
@@ -463,7 +463,7 @@ nav p{
 .contact-title{
   font-size: 60px;
   font-weight: 600;
-  color: #fff;
+  color: #000000;
 
   margin-left: 35%;
 }
@@ -479,7 +479,7 @@ nav p{
   margin-top: 30px;
 }
 .contact-list a{
-  color: white;
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
 .contact-list p i{
@@ -489,10 +489,10 @@ nav p{
 }
 .contact-button{
   text-decoration: none;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 .contact-button:hover{
-  color: #F0C46A;
+  color: #000000;
 }
 
 /* --------------Social Icons------------- */
@@ -506,7 +506,7 @@ nav p{
   color: #f0c36a9f;
 }
 .social-icons1-a:hover{
-  color: #e3d9c6;
+  color: #000000;
 }
 
 #social-icons-2{
@@ -522,12 +522,12 @@ nav p{
   text-decoration: none;
   font-size: 30px;
   margin-right: 15px;
-  color: #ababab;
+  color: #000000;
   display: inline-block;
   transition: transform 0.5s;
 }
 .social-icons a:hover{
-  color: #F0C46A;
+  color: #000000;
   transform: translateY(-5px);
 }
 
@@ -761,7 +761,7 @@ nav p{
   color: white;
 }
 .contact-button:hover{
-  color: #F0C46A;
+  color: #d0611b;
 }
 
 /* --------------Social Icons------------- */
