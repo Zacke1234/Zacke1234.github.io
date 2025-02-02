@@ -73,7 +73,7 @@ nav p{
   position: absolute;
 }
 .resume:hover{
-  color: #e3d9c6;
+  color: #04fb00;
 }
 .phone-nav{
   display: none;
@@ -98,10 +98,10 @@ nav p{
 .game-title{
   width: var(--game-video-width);
   height: 75px;
-  padding: 15px 20px;
+  padding: 10px 20px;
   font-size: 36px;
   font-weight: 600;
-  background-color: #221f1fc5;
+  /* background-color: #221f1fc5; */
   color: #dc1010;
   position:absolute;
   margin-top: -79px;
@@ -203,8 +203,8 @@ nav p{
   transition:transform 0.25s ease;
 }
 .slider-wrapper:hover {
-  -webkit-transform:scale(1.7);
-  transform:scale(1.7);
+  -webkit-transform:scale(1.01);
+  transform:scale(1.01);
 }
 .slider{
   display: flex;
@@ -562,6 +562,7 @@ nav{
   
   padding-left: 40px;
   margin-top: -30px;
+  
 }
 nav a{
   font-size: 35px;
@@ -779,7 +780,7 @@ nav p{
 }
 .social-icons a:hover{
   color: #F0C46A;
-  transform: translateY(-5px);
+  transform: translateY(-1px);
 }
 
 /* --------------Copyright------------- */
