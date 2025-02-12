@@ -427,8 +427,8 @@ nav p{
 .skills-list div{
   background: #252423;
   color: #ababab;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 110px;
   padding-top: 40px;
   text-align: center;
   font-weight: 300;
@@ -478,6 +478,7 @@ nav p{
 }
 .contact-list p{
   margin-top: 30px;
+  color: rgb(0, 0, 0);
 }
 .contact-list a{
   color: rgb(0, 0, 0);
