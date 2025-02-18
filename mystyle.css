@@ -61,6 +61,7 @@ nav p{
   margin-top: -50px;
   font-size: 20px;
   color: #2a91519f;
+  margin-right: 250px;
 }
 .resume{
   width: 100px;
@@ -72,6 +73,22 @@ nav p{
   top: -20px;
   margin-top: 71px;
   position: absolute;
+}
+
+.about-me{
+  width: 100px;
+  font-size: 20px;
+  border: 2px dotted;
+  border-radius: 5px;
+  padding: 6px 10px 6px 10px;
+  color: turquoise;
+  top: -20px;
+  margin-top: 71px;
+  margin-left: 130px;
+  position: absolute;
+}
+.about-me:hover{
+  color: #04fb00;
 }
 .resume:hover{
   color: #04fb00;
